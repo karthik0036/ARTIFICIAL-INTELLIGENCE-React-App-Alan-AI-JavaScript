@@ -21,7 +21,7 @@ tutorial:https://youtu.be/rqw3OftE5sA
 
 ## App is Fully Responsive
 
-##External Tools : 
+## External Tools : 
 
 -Material UI , Alan AI Software
 
