@@ -7,7 +7,7 @@ It allows you to control absolutely everything in the app using your voice.
 ## Live Site:https://voicecontrollednewsapp369.netlify.app/
 
 
-![alt text](C:\Users\HP\Pictures\Screenshots)
+
 
 
 
