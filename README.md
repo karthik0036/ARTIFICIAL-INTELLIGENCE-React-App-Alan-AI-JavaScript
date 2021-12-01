@@ -11,7 +11,6 @@ It allows you to control absolutely everything in the app using your voice.
 
 
 
-tutorial:https://youtu.be/rqw3OftE5sA
 
 ## Key Points:
 -Alan reads all news for user,even asks if user wants to read it.
